@@ -1,3 +1,6 @@
+## Credits
+Not made by me, the original author is [Mercy-Collective](https://github.com/Mercy-Collective)
+
 ## gangsystem
 - gang system for mythic-framework
 
@@ -17,11 +20,11 @@
 - goto this place (/tp -297.163, -1331.726, 31.297)0
 - buy the items from the ped (glaptop, sprays, scrubbingcloth) (you can change the price for them in `mythic-graffiti\shared\sh_config.lua`
 
-## Changed the base name?
+## Wanna Change the base name?
 you can change the base name of script if ur using mythic but with another name
-put all the folders into one folder like this
-![image](https://github.com/user-attachments/assets/9fd9964b-8e77-4f6b-90dc-c1ec7feb2678)
+put all the folders into one folder like the image down
 press right click and press open with code (to open it with VS code)
-goto search bar and search for mythic and repleace it with ur basename like this image
-![image](https://github.com/user-attachments/assets/9be6bdb4-0a65-4136-bbc6-b3727401702a)
+goto search bar and search for mythic and repleace it with ur basename like the image down
 
+![image](https://github.com/user-attachments/assets/9be6bdb4-0a65-4136-bbc6-b3727401702a)
+![image](https://github.com/user-attachments/assets/9fd9964b-8e77-4f6b-90dc-c1ec7feb2678)
